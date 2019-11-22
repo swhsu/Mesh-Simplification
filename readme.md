@@ -1,3 +1,4 @@
+![Screenshot](meshsimplification.jpg)
 
 1. Build the project and copy exe file to "run" folder
 
