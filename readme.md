@@ -1,9 +1,9 @@
-Automated mesh simplification using quantitative edge collapsing.
+# Automated mesh simplification using quantitative edge collapsing.
 
 ![Screenshot](meshsimplification.jpg)
 
 
-Step to run this demo:
+# Build & Run:
 0. You will need [glew](http://glew.sourceforge.net/) to build & run. 
 
 1. Build the VS project and copy exe file to "run" folder.
